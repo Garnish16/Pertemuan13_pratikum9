@@ -2,7 +2,7 @@
 ### Dengan menggunakan block try except
 ### Repository ini dibuat sebagai tugas Bahasa pemrogramman
 
-1. Pertama kita buat sebuah folder bernama `13-exception` dan didalamnya kita buat file bernama `Praktikum.py` , `filedemo.txt` dan `filedemo2.txt`, untuk penamaan folder dan file itu sesuai kesukaan kalian.
+1. Pertama kita buat sebuah folder bernama `Pertemuan13_pratikum9` dan didalamnya kita buat file bernama `Praktikum.py` , `filedemo.txt` dan `filedemo2.txt`, untuk penamaan folder dan file itu sesuai kesukaan kalian.
 
    ![pict](Pict/FileDemo.png)
 
