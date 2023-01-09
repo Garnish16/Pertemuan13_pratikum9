@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Belajar Exception pada python
 ### Dengan menggunakan block try except
 ### Repository ini dibuat sebagai tugas Bahasa pemrogramman
@@ -59,3 +60,6 @@
 
 ### Sekian Terimakasih 
 ### Garnish Andhika Pratama
+=======
+# On Proses uplaod
+>>>>>>> ff890962e82c21ac92603cde72af4584d9cbec2b
